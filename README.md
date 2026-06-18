@@ -1,20 +1,38 @@
 # VU VAN THUC
 
 Student based in Tokyo, Japan.
+Interested in AI, Computer Vision, Robotics, and Drone Applications.
 
-Currently working on:
+## Current Projects
 
-- Drone AI
-- Computer Vision
+- DJI Tello Face Following
+- Drone Line Following
+- Landing Pad Detection
+- Object Detection with YOLO
+- Computer Vision using OpenCV
+
+## Currently Learning
+
 - Deep Learning
-- Robotics
+- Reinforcement Learning
+- Physical AI
+- Vision-Language-Action Models
+- Autonomous UAV Systems
 
-Projects:
+## Tools
 
-- Face Following Drone
-- Line Following Drone
-- Autonomous Landing
+- Python
+- OpenCV
+- PyTorch
+- Git & GitHub
+- DJI Tello
 
-Tools:
+## Recent Work
 
-Python • OpenCV • PyTorch • Git
+- Drone-based Human Detection
+- PID Control for UAV Tracking
+- Real-time Image Processing
+
+## Contact
+
+GitHub: @ti0246
