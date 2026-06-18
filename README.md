@@ -1,16 +1,20 @@
-## Hi there 👋
+# VU VAN THUC
 
-<!--
-**ti0246/TI0246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student based in Tokyo, Japan.
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Drone AI
+- Computer Vision
+- Deep Learning
+- Robotics
+
+Projects:
+
+- Face Following Drone
+- Line Following Drone
+- Autonomous Landing
+
+Tools:
+
+Python • OpenCV • PyTorch • Git
